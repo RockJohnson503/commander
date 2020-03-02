@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+commander/__init__.py
+commander/base.py
+commander/color.py
+commander.egg-info/PKG-INFO
+commander.egg-info/SOURCES.txt
+commander.egg-info/dependency_links.txt
+commander.egg-info/top_level.txt
+commander/commands/example.py
