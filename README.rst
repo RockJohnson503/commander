@@ -28,7 +28,7 @@ main.py案例代码::
     # 传入commands的上级目录(example目录)
     # os.path.abspath(__file__)返回 xxx/example/main.py
     # os.path.dirname(os.path.abspath(__file__)) 返回 xxx/example
-    execute_from_command_line(os.path.dirname(__file__))
+    execute_from_command_line(os.path.dirname(os.path.abspath(__file__))
 
 shell调用::
 
