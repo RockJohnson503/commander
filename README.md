@@ -1,12 +1,10 @@
-=========
-Commander
-=========
+# Commander
 
 命令行解析框架,快速构建自己的脚手架命令行工具.
 
 安装
 ----
-https://github.com/RockJohnson503/commander/releases 下载wheel文件并使用pip安装.
+下载[wheel](https://github.com/RockJohnson503/commander/releases)文件并使用pip安装.
 
 快速开始
 --------
